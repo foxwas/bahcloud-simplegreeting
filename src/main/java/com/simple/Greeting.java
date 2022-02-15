@@ -19,5 +19,6 @@ public class Greeting
     	
     	return "GOOD";
     	
+
     }
 }
